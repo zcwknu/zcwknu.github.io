@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-A personal mantra, "Simple Solutions for Complex Phenomena", has guided me through my early career within industry and even now as I navigate academia.
+A personal mantra-update, "Simple Solutions for Complex Phenomena", has guided me through my early career within industry and even now as I navigate academia.
