@@ -16,7 +16,7 @@
               {% assign domain = base_path %}
             {% endif %}
             
-            {% unless link.title == "CV" or link.title == "curriculumVitae1" or link.title == "Publications" %}
+            {% unless link.title == "CV" or link.title == "Publications" %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endunless %}
           {% endfor %}
@@ -31,7 +31,7 @@
               {% assign domain = base_path %}
             {% endif %}
             
-            {% if link.title == "CV" or link.title == "curriculumVitae1" or link.title == "Publications" %}
+            {% if link.title == "CV" or link.title == "Publications" %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
