@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Brendan M. Unikewicz"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Researcher, Designer, Developer"
   location         : "Cambridge, MA, 02139"
-  employer         : "Massachusetts Institute of Technology, Dept. of MechE"
+  employer         : "MIT MechE"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KGUyOA0AAAAJ&hl=en"
   email            : "bmu@mit.edu"
