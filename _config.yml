@@ -87,7 +87,7 @@ author:
   employer         : "Massachusetts Institute of Technology, Dept. of MechE"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KGUyOA0AAAAJ&hl=en"
-  email            : "bmu [at] mit [edu]"
+  email            : "bmu@mit.edu"
   researchgate     : "https://www.researchgate.net/profile/Brendan-Unikewicz"
   uri              : 
   bitbucket        : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zcwknu"
+  github           : #"zcwknu"
   google_plus      :
   keybase          :
   instagram        :
