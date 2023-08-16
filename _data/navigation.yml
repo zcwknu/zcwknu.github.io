@@ -17,6 +17,24 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "curriculumVitae1"
+    url: /cv1/
+
+  - title: "curriculumVitae2"
+    url: /cv2/
+
+  - title: "curriculumVitae3"
+    url: /cv3/
+
+  - title: "curriculumVitae4"
+    url: /cv4/
+
+  - title: "curriculumVitae5"
+    url: /cv5/
+
+  - title: "curriculumVitae6"
+    url: /cv6/
     
 #  - title: "Guide"
 #    url: /markdown/
